@@ -7,13 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F32144F1DDC263700098896 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F32144E1DDC263700098896 /* ViewController2.m */; };
 		3F46F7EA1DD9685E002D3DC0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F46F7E91DD9685E002D3DC0 /* main.m */; };
 		3F46F7ED1DD9685E002D3DC0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F46F7EC1DD9685E002D3DC0 /* AppDelegate.m */; };
 		3F46F7F01DD9685E002D3DC0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F46F7EF1DD9685E002D3DC0 /* ViewController.m */; };
-		3F46F7F31DD9685E002D3DC0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F46F7F11DD9685E002D3DC0 /* Main.storyboard */; };
 		3F46F7F51DD9685E002D3DC0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F46F7F41DD9685E002D3DC0 /* Images.xcassets */; };
 		3F46F7F81DD9685E002D3DC0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F46F7F61DD9685E002D3DC0 /* LaunchScreen.xib */; };
 		3F46F8041DD9685E002D3DC0 /* sevenwondersofdworldTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F46F8031DD9685E002D3DC0 /* sevenwondersofdworldTests.m */; };
+		3F46F80E1DD96877002D3DC0 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F46F80D1DD96877002D3DC0 /* MapKit.framework */; };
+		3F9769D41DDC869900D82953 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F9769D31DDC869900D82953 /* Storyboard.storyboard */; };
+		3F9769FD1DDC8E0200D82953 /* Chichen Itza.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9769FC1DDC8E0200D82953 /* Chichen Itza.png */; };
+		3F976A051DDC8E1B00D82953 /* Christ the Redeemer.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9769FE1DDC8E1B00D82953 /* Christ the Redeemer.png */; };
+		3F976A061DDC8E1B00D82953 /* Colosseum.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9769FF1DDC8E1B00D82953 /* Colosseum.png */; };
+		3F976A071DDC8E1B00D82953 /* Great Pyramid of Giza.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F976A001DDC8E1B00D82953 /* Great Pyramid of Giza.png */; };
+		3F976A081DDC8E1B00D82953 /* Great Wall of China.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F976A011DDC8E1B00D82953 /* Great Wall of China.png */; };
+		3F976A091DDC8E1B00D82953 /* Machu Picchu.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F976A021DDC8E1B00D82953 /* Machu Picchu.png */; };
+		3F976A0A1DDC8E1B00D82953 /* Petra.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F976A031DDC8E1B00D82953 /* Petra.png */; };
+		3F976A0B1DDC8E1B00D82953 /* tajmahal.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F976A041DDC8E1B00D82953 /* tajmahal.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F32144D1DDC263700098896 /* ViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
+		3F32144E1DDC263700098896 /* ViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
 		3F46F7E41DD9685E002D3DC0 /* sevenwondersofdworld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sevenwondersofdworld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F46F7E81DD9685E002D3DC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F46F7E91DD9685E002D3DC0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -34,12 +46,21 @@
 		3F46F7EC1DD9685E002D3DC0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		3F46F7EE1DD9685E002D3DC0 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		3F46F7EF1DD9685E002D3DC0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		3F46F7F21DD9685E002D3DC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3F46F7F41DD9685E002D3DC0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		3F46F7F71DD9685E002D3DC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		3F46F7FD1DD9685E002D3DC0 /* sevenwondersofdworldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sevenwondersofdworldTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F46F8021DD9685E002D3DC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F46F8031DD9685E002D3DC0 /* sevenwondersofdworldTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sevenwondersofdworldTests.m; sourceTree = "<group>"; };
+		3F46F80D1DD96877002D3DC0 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		3F9769D31DDC869900D82953 /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		3F9769FC1DDC8E0200D82953 /* Chichen Itza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Chichen Itza.png"; sourceTree = "<group>"; };
+		3F9769FE1DDC8E1B00D82953 /* Christ the Redeemer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Christ the Redeemer.png"; sourceTree = "<group>"; };
+		3F9769FF1DDC8E1B00D82953 /* Colosseum.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Colosseum.png; sourceTree = "<group>"; };
+		3F976A001DDC8E1B00D82953 /* Great Pyramid of Giza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Great Pyramid of Giza.png"; sourceTree = "<group>"; };
+		3F976A011DDC8E1B00D82953 /* Great Wall of China.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Great Wall of China.png"; sourceTree = "<group>"; };
+		3F976A021DDC8E1B00D82953 /* Machu Picchu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Machu Picchu.png"; sourceTree = "<group>"; };
+		3F976A031DDC8E1B00D82953 /* Petra.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Petra.png; sourceTree = "<group>"; };
+		3F976A041DDC8E1B00D82953 /* tajmahal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tajmahal.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F46F80E1DD96877002D3DC0 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +85,8 @@
 		3F46F7DB1DD9685E002D3DC0 = {
 			isa = PBXGroup;
 			children = (
+				3F9769D31DDC869900D82953 /* Storyboard.storyboard */,
+				3F46F80D1DD96877002D3DC0 /* MapKit.framework */,
 				3F46F7E61DD9685E002D3DC0 /* sevenwondersofdworld */,
 				3F46F8001DD9685E002D3DC0 /* sevenwondersofdworldTests */,
 				3F46F7E51DD9685E002D3DC0 /* Products */,
@@ -84,8 +108,17 @@
 				3F46F7EB1DD9685E002D3DC0 /* AppDelegate.h */,
 				3F46F7EC1DD9685E002D3DC0 /* AppDelegate.m */,
 				3F46F7EE1DD9685E002D3DC0 /* ViewController.h */,
+				3F32144D1DDC263700098896 /* ViewController2.h */,
+				3F32144E1DDC263700098896 /* ViewController2.m */,
 				3F46F7EF1DD9685E002D3DC0 /* ViewController.m */,
-				3F46F7F11DD9685E002D3DC0 /* Main.storyboard */,
+				3F9769FE1DDC8E1B00D82953 /* Christ the Redeemer.png */,
+				3F9769FF1DDC8E1B00D82953 /* Colosseum.png */,
+				3F976A001DDC8E1B00D82953 /* Great Pyramid of Giza.png */,
+				3F976A011DDC8E1B00D82953 /* Great Wall of China.png */,
+				3F976A021DDC8E1B00D82953 /* Machu Picchu.png */,
+				3F976A031DDC8E1B00D82953 /* Petra.png */,
+				3F976A041DDC8E1B00D82953 /* tajmahal.png */,
+				3F9769FC1DDC8E0200D82953 /* Chichen Itza.png */,
 				3F46F7F41DD9685E002D3DC0 /* Images.xcassets */,
 				3F46F7F61DD9685E002D3DC0 /* LaunchScreen.xib */,
 				3F46F7E71DD9685E002D3DC0 /* Supporting Files */,
@@ -199,9 +232,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F46F7F31DD9685E002D3DC0 /* Main.storyboard in Resources */,
+				3F976A0A1DDC8E1B00D82953 /* Petra.png in Resources */,
+				3F976A071DDC8E1B00D82953 /* Great Pyramid of Giza.png in Resources */,
+				3F976A091DDC8E1B00D82953 /* Machu Picchu.png in Resources */,
+				3F976A081DDC8E1B00D82953 /* Great Wall of China.png in Resources */,
+				3F976A061DDC8E1B00D82953 /* Colosseum.png in Resources */,
+				3F976A0B1DDC8E1B00D82953 /* tajmahal.png in Resources */,
+				3F976A051DDC8E1B00D82953 /* Christ the Redeemer.png in Resources */,
 				3F46F7F81DD9685E002D3DC0 /* LaunchScreen.xib in Resources */,
 				3F46F7F51DD9685E002D3DC0 /* Images.xcassets in Resources */,
+				3F9769D41DDC869900D82953 /* Storyboard.storyboard in Resources */,
+				3F9769FD1DDC8E0200D82953 /* Chichen Itza.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -220,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F46F7F01DD9685E002D3DC0 /* ViewController.m in Sources */,
+				3F32144F1DDC263700098896 /* ViewController2.m in Sources */,
 				3F46F7ED1DD9685E002D3DC0 /* AppDelegate.m in Sources */,
 				3F46F7EA1DD9685E002D3DC0 /* main.m in Sources */,
 			);
@@ -244,14 +286,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		3F46F7F11DD9685E002D3DC0 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				3F46F7F21DD9685E002D3DC0 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		3F46F7F61DD9685E002D3DC0 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -418,6 +452,7 @@
 				3F46F8091DD9685E002D3DC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F46F80A1DD9685E002D3DC0 /* Build configuration list for PBXNativeTarget "sevenwondersofdworldTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +461,7 @@
 				3F46F80C1DD9685E002D3DC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
